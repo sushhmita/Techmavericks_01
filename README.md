@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=6B52F7&width=435&lines=We+want+to+create+awareness+about+DYSLEXIA!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6B52F7&width=435&lines=We+want+to+create+awareness+about+DYSLEXIA!!" alt="Typing SVG" /></a>
